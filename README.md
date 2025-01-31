@@ -37,4 +37,4 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e mo
 
 ---
 
-Feito com ❤️ por [Job Junior](https://github.com/SEU-USUARIO)!
+Feito com ❤️ por [Job Junior](https://github.com/jobbob22)!
