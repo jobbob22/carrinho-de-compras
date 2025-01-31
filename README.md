@@ -29,7 +29,7 @@ cd carrinho-de-compras
 
 ## 📷 Preview
 
-![Preview do Projeto](https://via.placeholder.com/800x400.png?text=Imagem+do+Projeto)
+Em produção
 
 ## 📜 Licença
 
