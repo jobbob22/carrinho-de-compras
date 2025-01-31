@@ -19,7 +19,7 @@ Este é um projeto simples de um **Carrinho de Compras** feito com **HTML, CSS e
 
 1. **Clone o repositório**
 ```sh
-git clone https://github.com/SEU-USUARIO/carrinho-de-compras.git
+git clone [https://github.com/jobbob22/carrinho-de-compras.git]
 ```
 2. **Acesse a pasta do projeto**
 ```sh
